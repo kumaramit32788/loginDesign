@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "617667791526",
+    "project_id": "logindesign-a8da7",
+    "storage_bucket": "logindesign-a8da7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617667791526:android:5f607c696c73a898b64267",
+        "android_client_info": {
+          "package_name": "com.logindesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617667791526-usuvpgitvo2ti3goaj1flh4ma544f2hu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.logindesign",
+            "certificate_hash": "f7ca183110b9e51d03507ad51a4f8087dd178c81"
+          }
+        },
+        {
+          "client_id": "617667791526-0kl6084vq04ss54mjrr44aj2svvm6qcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9K6ZkL9NdsbEA_vK2zyBotbWoHdC15y0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617667791526-0kl6084vq04ss54mjrr44aj2svvm6qcl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
